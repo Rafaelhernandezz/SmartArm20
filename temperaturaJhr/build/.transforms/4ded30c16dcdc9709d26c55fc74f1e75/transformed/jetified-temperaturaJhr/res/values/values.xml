@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="termometroJhr">
+        <attr format="color" name="colorTermometro"/>
+        <attr format="color" name="colorTemperatura"/>
+        <attr format="string" name="textTemp"/>
+        <attr format="float" name="offsetX"/>
+        <attr format="float" name="offsetY"/>
+        <attr format="float" name="textSizeTemp"/>
+        <attr format="color" name="textColorTemp"/>
+        <attr format="boolean" name="textOn"/>
+    </declare-styleable>
+</resources>

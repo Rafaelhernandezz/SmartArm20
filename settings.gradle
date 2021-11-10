@@ -1,0 +1,2 @@
+include ':app', ':GraphView-3.0',  ':bluetoothjhr', ':temperaturaJhr'
+rootProject.name='SmartArm2.0'
